@@ -1,0 +1,31 @@
+{
+  "name": "react-parcel-skeleton",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html -p 3000",
+    "build": "parcel build src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "parcel",
+    "parceljs"
+  ],
+  "author": "Florian Nadaud",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "parcel-bundler": "1.12.3",
+    "sass": "1.17.3"
+  },
+  "dependencies": {
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "scss": "^0.2.4"
+  }
+}
