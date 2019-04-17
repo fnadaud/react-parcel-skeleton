@@ -26,6 +26,6 @@
   "dependencies": {
     "react": "16.8.5",
     "react-dom": "16.8.5",
-    "scss": "^0.2.4"
+    "scss": "0.2.4"
   }
 }
